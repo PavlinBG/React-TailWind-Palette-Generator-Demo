@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# React-Tailwind-Palette-Generator-Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+The "React-Tailwind-Palette-Generator-Demo" is a Github repository that contains a Simple Palette Generator Website made with React and Tailwind. The website has  a Header  section, Home page and a Footer section.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The website was built using HTML, CSS with Tailwind, and JavaScript with React, with a focus on creating a lightweight and easy-to-use interface. Users can effortlessly input their search queries and browse through the latest listings in a clean and organized format.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Palette generator is built with react and tailwind for the frontend, ans uses Kmeans algorithm from Scipy to extract dominant colors
 
-### `npm test`
+## 💻 Used technologies and libraries
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Javascript
+- React
+- Tailwind
+- HTML
+- CSS
 
-### `npm run build`
+ 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Screenshots
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Home Screen
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img src="/img/Home.png" alt="Home Screen">
 
-### `npm run eject`
+### Home Demo Render
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<img src="/img/Home Demo Render.png" alt="Home Demo Render">
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Home Demo
+ <img src="/img/Home Demo.png" alt="Home Demo">
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Footer
+ <img src="img/Footer.png" alt="Footer Part">
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📬 Feedback
+Thank you for viewing my project!<br/>
+If you have any questions, comments or you come across some bugs, please contact me through the contact info in my profile.<br/>
+Any feedback is highly appreciated! 🙂
